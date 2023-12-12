@@ -30,13 +30,13 @@ The Flutter To-Do App allows users to:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/mparsa08/YourToDoApp.git
+    git clone https://github.com/mparsa08/TodoApp.git
     ```
 
 2. **Navigate to the project directory:**
 
     ```bash
-    cd YourToDoApp
+    cd TodoApp
     ```
 
 3. **Install dependencies:**
